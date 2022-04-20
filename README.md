@@ -56,44 +56,62 @@
 
 **Backup**
 - (253) https://cfp.devoxx.fr/2022/talk/EDC-0630/Licences_open_source_:_entre_guerre_de_clochers_et_radicalite_
+- (242AB) https://cfp.devoxx.fr/2022/talk/PFD-4089/D'un_hack_au_datamesh,_l'evolution_du_data_engineering_chez_Leboncoin
 
-### 13:00 - 13:15 Equity for software engineers
+### 13:00 - 13:15 Simplifiez vos revues de code avec le rebase interactif
 
-**Salle :** 242AB
+**Salle :** Maillot
 
-**Lien programme :** https://cfp.devoxx.fr/2022/talk/BVM-4856/entiers,_virgules_flottantes_ou_representations_exotiques_:_parlons_d'elegance
+**Lien programme :** https://cfp.devoxx.fr/2022/talk/YOC-8839/Simplifiez_vos_revues_de_code_avec_le_rebase_interactif
 
 **Speaker(s) :**
-- Damien PACAUD
+- Sonia SEDDIKI
+
+### 13:30 - 14:15 Protéger son organisation des attaques par le système de build
+
+**Salle :** 252AB
+
+**Lien programme :** https://cfp.devoxx.fr/2022/talk/ZWH-7741/Proteger_son_organisation_des_attaques_par_le_systeme_de_build
+
+**Speaker(s) :**
+- Louis JACOMET
 
 **Backup**
-- (251) https://cfp.devoxx.fr/2022/talk/XRU-2811/Rendu_3D,_la_grande_illusion_expliquee
+- (242AB) https://cfp.devoxx.fr/2022/talk/CRM-4832/Construire_et_deployer_son_application_avec_Argo_dans_Kubernetes
 
-### 13:30 - 14:15 entiers, virgules flottantes ou représentations exotiques : parlons d'élégance
+### 14:30 - 15:15 Cloud public, mais données privées !
 
-**Salle :** 253
+**Salle :** 251
 
-**Lien programme :** https://cfp.devoxx.fr/2022/talk/BVM-4856/entiers,_virgules_flottantes_ou_representations_exotiques_:_parlons_d'elegance
+**Lien programme :** https://cfp.devoxx.fr/2022/talk/YKJ-2069/Cloud_public,_mais_donnees_privees_!
 
 **Speaker(s) :**
-- Olivier PONCET
-- Fabien TRÉGAN
+- Gilles SEGHAIER
+- MICODE
 
 **Backup**
-- (Amphi Maillot) https://cfp.devoxx.fr/2022/talk/ZYX-6223/Traiter_1_million_de_messages_par_CPU_par_Go_de_memoire_avec_Quarkus_et_Microprofile_reactive_messaging_kafka_a_Decathlon
+- https://cfp.devoxx.fr/2022/talk/VMS-9546/Ciel_!_Mon_Kubernetes_mine_des_bitcoins_!
 
-### 14:30 - 15:15  Ciel ! Mon Kubernetes mine des bitcoins !
+### 15:30 - 18:30 GitOps, une mise en situation un peu réaliste sur Kubernetes avec Flux
 
-**Salle :** 243
+**Salle :** LAB1
 
-**Lien programme :** https://cfp.devoxx.fr/2022/talk/VMS-9546/Ciel_!_Mon_Kubernetes_mine_des_bitcoins_!
+**Lien programme :** https://cfp.devoxx.fr/2022/talk/IHY-5946/GitOps_,_une_mise_en_situation_un_peu_realiste_sur_Kubernetes_avec_Flux
+
+** Speaker(s):
+- Ludovic PIOT
+- Laurent GRANGEAU
+
+### 15:30 - 16:15 Eliminez la complexité de Kubernetes avec LENS !
+
+**Salle :** 241
+
+**Lien programme :** https://cfp.devoxx.fr/2022/talk/RAX-2612/Eliminez_la_complexite_de_Kubernetes_avec_LENS_!
 
 **Speaker(s) :**
-- Denis GERMAIN
-
-### 15:30 - 16:15
-
-PAUSE post talk !
+- Daniel VIRASSAMY
+- Lee NAMBA
+- Stéphane MONTRI
 
 ### 16:45 - 17:30 Montée de version sans interruption
 
@@ -107,25 +125,26 @@ PAUSE post talk !
 **Backup**
 - (253) https://cfp.devoxx.fr/2022/talk/IVT-9110/Comment_orchestrer_une_flotte_de_200_clusters_Kubernetes_sur_Microsoft_Azure_%3F
 
-### 17:45 - 18:15 Comment Betclic utilise son datalake pour générer des tests de charge et simuler des évènements sportifs ?
+### 17:45 - 18:15 Git, back to the future
 
-**Salle :** 251
+**Salle :** Amphi Bleu
 
-**Lien programme :** https://cfp.devoxx.fr/2022/talk/VIK-3361/Comment_Betclic_utilise_son_datalake_pour_generer_des_tests_de_charge_et_simuler_des_evenements_sportifs_%3F
-
-**Speaker(s) :**
-- Nicolas JOZWIAK
-- Etienne PUISSANT
-
-### 18:30 - 19:00 Jouer à Minecraft avec une IA générée par GPT-3
-
-**Salle :** 243
-
-**Lien programme :** https://cfp.devoxx.fr/2022/talk/ZJV-4241/Jouer_a_Minecraft_avec_une_IA_generee_par_GPT-3
+**Lien programme :** https://cfp.devoxx.fr/2022/talk/LXE-2783/Git,_back_to_the_future_
 
 **Speaker(s) :**
-- Wassim CHEGHAM
-- Tiffany SOUTERRE
+- Antoine CEOL
+
+**Backup**
+- https://cfp.devoxx.fr/2022/talk/POM-2499/Dekorate:_l'outil_pour_deployer_tes_microservices_sur_Kubernetes
+
+### 18:30 - 19:00 REX: TDD avec TestContainers
+
+**Salle :** Amphi Bleu
+
+**Lien programme :** https://cfp.devoxx.fr/2022/talk/OCB-6800/REX:_TDD_avec_TestContainers
+
+**Speaker(s) :**
+- Julien DURILLON
 
 ### 20:00 - 20:50 Mais au fait DevRel c'est vraiment qu'un lanceur de paillettes ?
 
@@ -139,7 +158,6 @@ PAUSE post talk !
 - Aurélie VACHE
 - Horacio GONZALEZ
 - Sebastien BLANC
-
 
 ### 21:00 - 21:50 Il y a des cloud en Europe ?
 
