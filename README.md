@@ -1,71 +1,6 @@
-# Devoxx 2022
+# Devoxxfr 2022
 
-## Wednesday
-
-### Accueil
-
-### 09:30 - 12:30 La révolution (wasm) est incroyable parce que vraie
-
-**Salle :** 252AB
-
-**Lien programme :** https://cfp.devoxx.fr/2022/talk/UQT-5798/La_revolution_(wasm)_est_incroyable_parce_que_vraie
-
-**Speaker(s) :**
-- Philippe CHARRIÈRE
-- Laurent DOGUIN
-
-### 13:30 - 16:30 Déployer Vault et Consul dans Kubernetes
-
-**Salle :** LAB 3
-
-**Lien programme :** https://cfp.devoxx.fr/2022/talk/FWL-5289/Deployer_Vault_et_Consul_dans_Kubernetes
-
-**Speaker(s) :**
-- Vincent SEVEL
-- Ludovic BERTIN
-- Erik DE LAMARTER
-
-**Backup**
-- (251) https://cfp.devoxx.fr/2022/talk/JPM-7348/Securiser_son_cluster_Kubernetes_on-premise_from_scratch
-
-### 17:00 - 17:30 Du Chaos Engineering avec Litmus et Jenkins
-
-**Salle :** 251
-
-**Lien programme :** https://cfp.devoxx.fr/2022/talk/KLY-7038/Du_Chaos_Engineering_avec_Litmus_et_Jenkins
-
-**Speaker(s) :**
-- Akram RIAHI
-
-**Backup**
-- (Amphi Bleu) https://cfp.devoxx.fr/2022/talk/ACA-2427/Pourquoi_vous_n'attirerez_et_ne_retiendrez_pas_les_femmes_dans_vos_equipes_tech_!
-
-### 17:45 - 18:15 Rendez l'agilité aux développeur(se)s !
-
-**Salle :** Amphi Bleu
-
-**Lien programme :** https://cfp.devoxx.fr/2022/talk/ZOH-3644/Rendez_l'agilite_aux_developpeur(se)s_!
-
-**Speaker(s) :**
-- Fanny KLAUK
-
-**Backup** 
- - (253) https://cfp.devoxx.fr/2022/talk/NHE-6632/Templates_d'email:_l'aventure_dont_vous_etes_le_heros
- - (243) https://cfp.devoxx.fr/2022/talk/LYD-3093/Merci_Keptn_Obvious!_SLOs_observables_avec_Prometheus_et_Keptn
-
-### 18:30 - 19:00 Créer & distribuer un plugin pour Kubernetes en quelques minutes ? Easy ! 🙂
-
-**Salle :** 251
-
-**Lien programme :** https://cfp.devoxx.fr/2022/talk/PRX-5917/Creer_&_distribuer_un_plugin_pour_Kubernetes_en_quelques_minutes_%3F_Easy_!_%F0%9F%99%82
-
-**Speaker(s) :** 
-- Aurélie VACHE
-- Gaëlle ACAS
-
-### Soirée speakers :D
-
-## Thursday
+## Jeudi
 
 ### 09:00 - 09:20 La Keynote de Devoxx France 2022 - 10 ans déjà
 
@@ -98,17 +33,17 @@
 **Speaker(s) :**
 - Frédéric BORDAGE
 
-### 10:45 - 11:30 OAUTH 2.1 expliqué simplement (même si tu n'es pas dev) !
+### 10:45 - 11:30 ODévelopper des applications observables pour la production
 
-**Salle :** Amphi Bleu
+**Salle :** Maillot
 
-**Lien programme :** https://cfp.devoxx.fr/2022/talk/YHH-6414/OAUTH_2.1_explique_simplement_(meme_si_tu_n'es_pas_dev)_!
+**Lien programme :** https://cfp.devoxx.fr/2022/talk/PFT-6511/Developper_des_applications_observables_pour_la_production
 
 **Speaker(s) :**
-- Julien TOPÇU
+- Pierre Zemb
 
 **Backup**
-- (252AB) https://cfp.devoxx.fr/2022/talk/XWJ-6943/Comprendre_les_enjeux_de_consommation_de_ressource_et_d%E2%80%99energie_dans_le_secteur_numerique
+- (253) https://cfp.devoxx.fr/2022/talk/NMG-2121/_Qu'est-ce_que_l'InnerSource_%3F_Comment_ca_se_met_en_place_et_pourquoi_ca_va_ameliorer_votre_IT_..._mais_pas_que_%3F
 
 ### 11:45 - 12:30 Dans les coulisses du "Cloud"
 
