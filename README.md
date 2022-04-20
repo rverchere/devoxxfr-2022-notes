@@ -159,6 +159,9 @@
 - Horacio GONZALEZ
 - Sebastien BLANC
 
+**Backup**
+- https://cfp.devoxx.fr/2022/talk/ITQ-7092/BOF_Docker_&_Kubernetes
+
 ### 21:00 - 21:50 Il y a des cloud en Europe ?
 
 **Salle :** 242AB
@@ -189,52 +192,45 @@
 **Speaker(s) :**
 - Lê Nguyên HOANG
 
-### 10:45 - 11:30 Développ(eur|euse) Senior avec 6 ans d’expérience, et après ?
+### 10:45 - 11:30 Comment OpenTelemetry peut transformer votre monitoring en unifiant vos logs/metrics/traces
+
+**Salle :** Maillot
+
+**Lien programme :** https://cfp.devoxx.fr/2022/talk/QEB-2923/Comment_OpenTelemetry_peut_transformer_votre_monitoring_en_unifiant_vos_logs%2Fmetrics%2Ftraces
+
+**Speaker(s) :**
+- Vincent BEHAR
+
+### 11:45 - 12:30 À la découverte des Docker Dev Environments
 
 **Salle :** 252AB
 
-**Lien programme :** https://cfp.devoxx.fr/2022/talk/TBG-5289/Developp(eur%7Ceuse)_Senior_avec_6_ans_d%E2%80%99experience,_et_apres_%3F
+**Lien programme :** https://cfp.devoxx.fr/2022/talk/UQC-0994/A_la_decouverte_des_Docker_Dev_Environments
 
 **Speaker(s) :**
-- Hugo LASSIEGE
-- Dimitri BAELI
+- Guillaume LOURS
+- Djordje LUKIC
+
+### 13:00 - 13:15 Profiler un pod dans Kubernetes avec kube-flame
+
+**Salle :** 252AB
+
+**Lien programme :** https://cfp.devoxx.fr/2022/talk/XWG-5167/_Profiler_un_pod_dans_Kubernetes_avec_kube-flame
+
+**Speaker(s) :**
+- Loïc MATHIEU
+
+### 13:30 - 14:15 Les lois universelles de la performance
+
+**Salle :** Maillot
+
+**Lien programme :** https://cfp.devoxx.fr/2022/talk/SLG-6688/Les_lois_universelles_de_la_performance
+
+**Speaker(s) :**
+- Raphaël LUTA
 
 **Backup**
-- (Amphi Maillot) https://cfp.devoxx.fr/2022/talk/QEB-2923/Comment_OpenTelemetry_peut_transformer_votre_monitoring_en_unifiant_vos_logs%2Fmetrics%2Ftraces
-
-### 11:45 - 12:30 Doctolib a besoin d'une base de données plus puissante. Ok, mais laquelle?
-
-**Salle :** Amphi Bleu
-
-**Lien programme :** https://cfp.devoxx.fr/2022/talk/KCB-5237/Doctolib_a_besoin_d'une_base_de_donnees_plus_puissante._Ok,_mais_laquelle%3F
-
-**Speaker(s) :**
-- Bertrand PAQUET
-- David GAGEOT
-
-**Backup**
-- (242AB) https://cfp.devoxx.fr/2022/talk/YPK-7948/La_scale-up,_l%E2%80%99autonomie_et_le_sous-marin_nucleaire
-
-### 13:00 - 13:15 Record du monde - Tour d’horizon et cas d’utilisation des records
-
-**Salle :** 243
-
-**Lien programme :** https://cfp.devoxx.fr/2022/talk/CSP-0004/Record_du_monde_-_Tour_d%E2%80%99horizon_et_cas_d%E2%80%99utilisation_des_records
-
-**Speaker(s) :**
-- Benoît PRIOUX
-
-**Backup**
-- (252AB) https://cfp.devoxx.fr/2022/talk/XWG-5167/_Profiler_un_pod_dans_Kubernetes_avec_kube-flame
-
-### 13:30 - 14:15 Réception d'image satellite 🛰️ avec un Raspberry
-
-**Salle :** 253
-
-**Lien programme :** https://cfp.devoxx.fr/2022/talk/WQP-9784/Reception_d'image_satellite_%F0%9F%9B%B0%EF%B8%8F_avec_un_Raspberry
-
-**Speaker(s) :**
-- Guillaume MEMBRÉ
+- https://cfp.devoxx.fr/2022/talk/LKP-6193/Rendez_vos_interfaces_fiables_en_faisant_aimer_les_tests_a_votre_equipe_!
 
 ### 14:30 - 15:15 Qu'avons nous appris après un an passé à développer des opérateurs Kubernetes ?
 
@@ -248,15 +244,18 @@
 **Backup**
 - (Amphi Bleu) https://cfp.devoxx.fr/2022/talk/HZR-6262/Comment_permettre_100_millions_de_logins_sans_interruption_de_service_%3F_Betclic_raconte_son_Euro_2020_de_football
 
-### 15:30 - 16:15  Comprendre le comportement des français, c'est possible grâce à la data chez Leboncoin
+### 15:30 - 16:15 CI/CD, le divorce serait-il prononcé ?
 
-**Salle :** 252AB
+**Salle :** Maillot
 
-**Lien programme :** https://cfp.devoxx.fr/2022/talk/MBW-3761/Comprendre_le_comportement_des_francais,_c'est_possible_grace_a_la_data_chez_Leboncoin_
+**Lien programme :** https://cfp.devoxx.fr/2022/talk/HBX-3082/CI%2FCD,_le_divorce_serait-il_prononce_%3F
 
 **Speaker(s) :**
-- Stéphanie BALTUS-BERGAMO
-- Mathieu COUDERT
+- Nicolas GIRAUD
+- Yann SCHEPENS
+
+**Backup**
+- https://cfp.devoxx.fr/2022/talk/MBW-3761/Comprendre_le_comportement_des_francais,_c'est_possible_grace_a_la_data_chez_Leboncoin_
 
 ### 16:45 - 17:30 Pourquoi DevOps ne tient pas ses promesses ?
 
@@ -268,5 +267,6 @@
 - Gérôme EGRON
 - Guillaume MATHIEU
 
-Pas sûr d'y aller à cause du train...
+**Backup**
+- https://cfp.devoxx.fr/2022/talk/BTP-8595/La_fin_des_architectures_en_couches_avec_l%E2%80%99approche_hexagonale
 
