@@ -475,6 +475,37 @@ Ils utilisent Terraform à la fin ;)
 - Yann SCHEPENS
 
 **Notes :**
+- On débute par la CI (TU, contexte développeur), puis la CD
+  - D: Delivery, Development, Deployment, pas clair (+ complexe, - automatisé)
+- CI: plutôt Dev
+- CD: plutôt Ops
+- Proposition de pipelines pour que ça marche pour tout le monde 
+ 1) Définition des objectifs
+ 2) Analyse
+ 3) Cas particuliers
+ 4) Quels feedbacks veut-on (fastfail) ?
+ 5) Définir les tâches auto
+ 6) Choisir l'outillage. Le meilleur n'est pas forcément le plus adapté au contexte
+ 7) Implémentation
+
+Y aller de manière empirique
+
+*Représenter les processus* : Si on ne sait pas représenter, on ne saura pas l'implémenter
+
+- Merge des pratiques Dev & Ops
+- DRY:
+  - Factorisation de code, mais pas trop
+  - Librairies de jobs
+- SOLID
+- Essayer de faire des pauses intermédiaires dans le cycle CI/CD, pour pouvoir reprendre en cours de route (pas TOUT redérouler sur un fail)
+- KISS
+
+- Ajouter une équipe DevOps : pas forcément le meilleur choix (silo de plus)
+
+3 Choix pour réconcilier:
+1. On séparer Dev & Ops, comme avant, et donc CI & CD séparés, mais on le sait (factuel)
+2. On laisse ainsi, + équipe DevOps qui sera la pour de la médiation technique
+3. Intégration de la culture DevOps au sein des équipes
 
 ### 16:45 - 17:30 La fin des architectures en couches avec l’approche hexagonale
 
